@@ -1,2 +1,2 @@
 # HERB
-Policy based Dynamic Resource Allocation for Heterogeneous Cloud Computing
+Policy-based Heterogeneous Resource Backend Manager for IoT-Cloud Continuum
